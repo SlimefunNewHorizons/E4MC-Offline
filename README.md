@@ -1,3 +1,9 @@
+<!-- credits:start -->
+> **Credits & license.** Port and maintenance by [JackStar6677-1](https://github.com/JackStar6677-1) and [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Original authors: [vgskye](https://github.com/vgskye), [Chagui68](https://github.com/Chagui68), [Biquaternions](https://github.com/Biquaternions), [Kena78](https://github.com/Kena78), [NuruddinPlays](https://github.com/NuruddinPlays), [sleepingdragoninn](https://github.com/sleepingdragoninn), [Tarteroycc](https://github.com/Tarteroycc), [beto-bit](https://github.com/beto-bit). Upstream license: **GNU General Public License v3.0** (see [LICENSE](LICENSE)). Details: [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md) · Policy: [Rights & Attribution](https://github.com/SlimefunNewHorizons/.github/blob/main/RIGHTS_AND_ATTRIBUTION.md). Independent community project, not affiliated with or endorsed by the original authors or the official Slimefun team.
+>
+> **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales: [vgskye](https://github.com/vgskye), [Chagui68](https://github.com/Chagui68), [Biquaternions](https://github.com/Biquaternions), [Kena78](https://github.com/Kena78), [NuruddinPlays](https://github.com/NuruddinPlays), [sleepingdragoninn](https://github.com/sleepingdragoninn), [Tarteroycc](https://github.com/Tarteroycc), [beto-bit](https://github.com/beto-bit). Licencia original: **GNU General Public License v3.0**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
+<!-- credits:end -->
+
 # E4MC Offline
 
 Open a LAN server to anyone, anywhere, anytime — now with optional offline mode.
